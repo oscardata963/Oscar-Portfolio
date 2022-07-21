@@ -7,7 +7,5 @@ Accommodation costs share a significant portion of travellers' expenses. People 
 
 This project aims at building an accommodation price estimator that inputs relevant features about the stays and predicts their prices corresponding to these preferences. The collection of data requires web scraping on popular accommodation sites for a specific location, date and number of guests. To ensure consistency, the accommodations for 1 adult in Tokyo, Japan at a specific date will be explored and used as the input data.
 
-                           |                          
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
-![](./images/location_bar.png)  |  ![](./images/source_bar.png)
+<img src="./images/location_bar.png" alt="drawing" width="200"/>
+<img src="./image/source_bar.png" alt="drawing" width="200"/>
