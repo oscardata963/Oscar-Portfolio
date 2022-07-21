@@ -1,7 +1,7 @@
 # Data Science Portfolio by Oscar Wong
 
 
-**Project 1: Accommodation Price Prediciton: A Regression Task**
+**Project 1: Accommodation Price Prediciton: A Regression Task**(https://github.com/oscardata963/Acccommodation-Price-Prediction.git)
 
 Accommodation costs share a significant portion of travellers' expenses. People always want to look for the best deals with rooms that fit their needs and preferences. However, with over thousands of choices over the Internet, people easily fall into a never-ending cycle of trying to manually targeting the best price. An intuitive and convenient solution to this common conundrum is to create a price estimator that does the cumbersome job for these travellers.
 
